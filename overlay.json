@@ -1,0 +1,239 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 6,
+    "overlay_width": 1031,
+    "overlay_height": 562,
+    "elements": [
+        {
+            "type": 0,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "texture0",
+            "z_level": 0,
+            "mapping": [
+                56,
+                84,
+                1031,
+                562
+            ]
+        },
+        {
+            "type": 2,
+            "pos": [
+                764,
+                166
+            ],
+            "id": "gamepad button1",
+            "z_level": 0,
+            "mapping": [
+                384,
+                771,
+                84,
+                83
+            ],
+            "code": 60419
+        },
+        {
+            "type": 2,
+            "pos": [
+                667,
+                239
+            ],
+            "id": "gamepad button2",
+            "z_level": 0,
+            "mapping": [
+                384,
+                771,
+                84,
+                83
+            ],
+            "code": 60418
+        },
+        {
+            "type": 2,
+            "pos": [
+                860,
+                240
+            ],
+            "id": "gamepad button3",
+            "z_level": 0,
+            "mapping": [
+                384,
+                771,
+                84,
+                83
+            ],
+            "code": 60417
+        },
+        {
+            "type": 2,
+            "pos": [
+                764,
+                314
+            ],
+            "id": "gamepad button4",
+            "z_level": 0,
+            "mapping": [
+                384,
+                771,
+                84,
+                83
+            ],
+            "code": 60416
+        },
+        {
+            "type": 5,
+            "pos": [
+                293,
+                356
+            ],
+            "id": "analog stick5",
+            "z_level": 0,
+            "mapping": [
+                31,
+                771,
+                141,
+                139
+            ],
+            "stick_radius": 20,
+            "side": 0
+        },
+        {
+            "type": 5,
+            "pos": [
+                585,
+                357
+            ],
+            "id": "analog stick6",
+            "z_level": 0,
+            "mapping": [
+                31,
+                771,
+                141,
+                139
+            ],
+            "stick_radius": 20,
+            "side": 1
+        },
+        {
+            "type": 2,
+            "pos": [
+                104,
+                89
+            ],
+            "id": "gamepad button11",
+            "z_level": 0,
+            "mapping": [
+                1008,
+                947,
+                224,
+                68
+            ],
+            "code": 60420
+        },
+        {
+            "type": 2,
+            "pos": [
+                680,
+                88
+            ],
+            "id": "gamepad button12",
+            "z_level": 0,
+            "mapping": [
+                1264,
+                946,
+                224,
+                68
+            ],
+            "code": 60421
+        },
+        {
+            "type": 6,
+            "pos": [
+                104,
+                11
+            ],
+            "id": "trigger13",
+            "z_level": 0,
+            "mapping": [
+                512,
+                768,
+                224,
+                100
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 0
+        },
+        {
+            "type": 6,
+            "pos": [
+                681,
+                11
+            ],
+            "id": "trigger14",
+            "z_level": 0,
+            "mapping": [
+                768,
+                768,
+                224,
+                100
+            ],
+            "direction": 4,
+            "trigger_mode": true,
+            "side": 1
+        },
+        {
+            "type": 2,
+            "pos": [
+                489,
+                259
+            ],
+            "id": "gamepad button15",
+            "z_level": 0,
+            "mapping": [
+                1056,
+                768,
+                93,
+                38
+            ],
+            "code": 60423
+        },
+        {
+            "type": 2,
+            "pos": [
+                389,
+                259
+            ],
+            "id": "gamepad button16",
+            "z_level": 0,
+            "mapping": [
+                1056,
+                768,
+                93,
+                38
+            ],
+            "code": 60422
+        },
+        {
+            "type": 8,
+            "pos": [
+                124,
+                191
+            ],
+            "id": "dpad13",
+            "z_level": 0,
+            "mapping": [
+                32,
+                1120,
+                181,
+                181
+            ]
+        }
+    ]
+}
